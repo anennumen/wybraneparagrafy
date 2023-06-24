@@ -5,28 +5,20 @@ p{
     background-color: red;
 
 }
-.BLUE{
+.blue{
     background-color: blue;
-    height: 100px;
-    width: 100px;
 }
-.BLUE{
-    background-color: blue;
-    height: 100px;
-    width: 100px;
-}
-.BLUE{
-    background-color: blue;
+
+
+
+
+.square1{
+    background-color: rgb(243, 85, 0.2);
     height: 100px;
     width: 100px;
 }
 .square1{
-    background-color: rgb(243, 85, 85);
-    height: 100px;
-    width: 100px;
-}
-.square1{
-     background-color: rgb(249, 112, 112);
+     background-color: rgb(249, 112, 0.5);
     height: 100px;
     width: 100px;
 }
